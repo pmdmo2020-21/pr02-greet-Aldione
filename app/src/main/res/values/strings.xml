@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Greet</string>
+    <string name="txtPremium">Premium</string>
+    <string name="blnPremium">false</string>
+    <string name="txtName">Name</string>
+    <string name="txtSurname">Surname</string>
+    <string name="txtTreatment">Treatment</string>
+    <string name="txtTreatmentMr">Mr.</string>
+    <string name="txtTreatmentMrs">Mrs.</string>
+    <string name="txtTreatmentMs">Ms.</string>
+    <string name="txtTreatmenPhoto">Photo</string>
+    <string name="main_chkPolitely">Politely</string>
+    <string name="main_btnGreet">Greet</string>
+    <string name="main_count">0 of 10</string>
+    <string name="main_greet" />
 </resources>
